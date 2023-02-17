@@ -47,6 +47,7 @@
     position: sticky;
     top: 0;
     z-index: 100;
+    margin: 10px 0;
   }
   
   .nav-left,.nav-right{
@@ -59,9 +60,9 @@
   
   }
   .nav-left h1{
-    width: 160px;
+    width: 200px;
     margin-right: 45px;
-    font-weight: 500;
+    font-weight: 700;
     color: white;
   }
   .nav-left ul li img{
